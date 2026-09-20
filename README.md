@@ -39,7 +39,10 @@ This project demonstrates how SQL Injection attacks cause data leaks in cloud da
 - Password: `meghana123`
 - Capability Code: `25840eaa`
 - Result: **Login Success**
+## 📸 Output Screenshots
 
+![Register Output](output1.png)
+![Blocked Alert](output2.png)
 ## 🚀 How to Run
 
 ```bash
